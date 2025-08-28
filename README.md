@@ -5,7 +5,7 @@ Flixkart, a leading e-commerce platform, has recently undergone a security audit
 Firstly, Flixkart has a PII leakage vulnerability across multiple unmonitored touchpoints in their infrastructure, which has already led to real financial fraud and customer harm.
 
 # ⚠️ Pain points I observed
-1. **Log Contamination** - Logs from API Integrations from external third-party resources are often unsanitized. These external logs pass through the company's internal network without filtering. No real time monitoring or encryption of sensitive data in logs. This falls under **A09 – Security Logging and Monitoring Failures** in the **OWASP Top 10**.
+1. **Log Contamination** - Logs from API Integrations from external third-party resources are often unsanitized. These external logs pass through the company's internal network without filtering. No real time monitoring or encryption of sensitive data in logs. This falls under A09 – Security Logging and Monitoring Failures in the OWASP Top 10.
 
 2. **Application Exposure** - Internal web applications can reder PII directly which can lead to unauthorized access.
 
@@ -46,8 +46,8 @@ Every day companies are bleeding money from data breaches. Real-time PII Defense
 
 **There are multiple applications for this tool:**
 - **E-commerce platforms** certified with ISO 27001 for its Business Continuity Management System (BCMS).
-- **Financial service**s maintaining PCI DSS.
--** Healthcare systems** adhered to HIPAA.
+- **Financial services** maintaining PCI DSS.
+- **Healthcare systems** adhered to HIPAA.
 - And literally any company that can't afford a data breach lawsuit or compliance failure :)
 
 
@@ -99,5 +99,6 @@ All diagrams made using - https://excalidraw.com/
 
 
  
+
 
 
