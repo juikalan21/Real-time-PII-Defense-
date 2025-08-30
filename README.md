@@ -95,10 +95,16 @@ API Gateway placement delivers enterprise-grade PII protection that scales with 
 
 All diagrams made using - https://excalidraw.com/ 
 
+And thank you so much for going through my submission and make it this far.
+
+I have also made my write up for all the challenges I solved in ISCP 2.0 CTF.
+
+Check it out - https://drive.google.com/file/d/1Boct6JNQes8OQ3uxNaMp1bl680MLsrPf/view?usp=sharing
 
 
 
  
+
 
 
 
